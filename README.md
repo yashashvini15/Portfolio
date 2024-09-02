@@ -45,7 +45,7 @@ To get a local copy up and running, follow these steps:
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yashashvini15/) or through the contact form on my portfolio site.
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yashashvini-soni/) or through the contact form on my portfolio site.
 
 ## Acknowledgments
 
